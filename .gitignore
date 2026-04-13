@@ -1,0 +1,8 @@
+# Derived from upstream extension — never commit Amazon's code
+src/
+original/
+dist/
+*.xpi
+
+.DS_Store
+node_modules/
