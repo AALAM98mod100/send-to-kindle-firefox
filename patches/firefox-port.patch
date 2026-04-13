@@ -1,6 +1,6 @@
 diff --color -ruN a/_locales/ar/messages.json b/_locales/ar/messages.json
---- a/_locales/ar/messages.json	2026-04-14 01:37:24
-+++ b/_locales/ar/messages.json	2026-04-14 01:37:24
+--- a/_locales/ar/messages.json	2026-04-14 01:43:10
++++ b/_locales/ar/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -11,8 +11,8 @@ diff --color -ruN a/_locales/ar/messages.json b/_locales/ar/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/bn/messages.json b/_locales/bn/messages.json
---- a/_locales/bn/messages.json	2026-04-14 01:37:24
-+++ b/_locales/bn/messages.json	2026-04-14 01:37:24
+--- a/_locales/bn/messages.json	2026-04-14 01:43:10
++++ b/_locales/bn/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -23,8 +23,8 @@ diff --color -ruN a/_locales/bn/messages.json b/_locales/bn/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/cs/messages.json b/_locales/cs/messages.json
---- a/_locales/cs/messages.json	2026-04-14 01:37:24
-+++ b/_locales/cs/messages.json	2026-04-14 01:37:24
+--- a/_locales/cs/messages.json	2026-04-14 01:43:10
++++ b/_locales/cs/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -35,8 +35,8 @@ diff --color -ruN a/_locales/cs/messages.json b/_locales/cs/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/da/messages.json b/_locales/da/messages.json
---- a/_locales/da/messages.json	2026-04-14 01:37:24
-+++ b/_locales/da/messages.json	2026-04-14 01:37:24
+--- a/_locales/da/messages.json	2026-04-14 01:43:10
++++ b/_locales/da/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -47,8 +47,8 @@ diff --color -ruN a/_locales/da/messages.json b/_locales/da/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/de/messages.json b/_locales/de/messages.json
---- a/_locales/de/messages.json	2026-04-14 01:37:24
-+++ b/_locales/de/messages.json	2026-04-14 01:37:24
+--- a/_locales/de/messages.json	2026-04-14 01:43:10
++++ b/_locales/de/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -59,8 +59,8 @@ diff --color -ruN a/_locales/de/messages.json b/_locales/de/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/en/messages.json b/_locales/en/messages.json
---- a/_locales/en/messages.json	2026-04-14 01:37:24
-+++ b/_locales/en/messages.json	2026-04-14 01:37:24
+--- a/_locales/en/messages.json	2026-04-14 01:43:10
++++ b/_locales/en/messages.json	2026-04-14 01:43:10
 @@ -169,7 +169,7 @@
     },
     "extensionName": {
@@ -71,8 +71,8 @@ diff --color -ruN a/_locales/en/messages.json b/_locales/en/messages.json
     "extensionOverview": {
        "description": "Extension Overview shown in the WebStore download page. (Note that: all \\n are symbol of new line, please do not translate them)",
 diff --color -ruN a/_locales/en_AU/messages.json b/_locales/en_AU/messages.json
---- a/_locales/en_AU/messages.json	2026-04-14 01:37:24
-+++ b/_locales/en_AU/messages.json	2026-04-14 01:37:24
+--- a/_locales/en_AU/messages.json	2026-04-14 01:43:10
++++ b/_locales/en_AU/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -83,8 +83,8 @@ diff --color -ruN a/_locales/en_AU/messages.json b/_locales/en_AU/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/en_GB/messages.json b/_locales/en_GB/messages.json
---- a/_locales/en_GB/messages.json	2026-04-14 01:37:24
-+++ b/_locales/en_GB/messages.json	2026-04-14 01:37:24
+--- a/_locales/en_GB/messages.json	2026-04-14 01:43:10
++++ b/_locales/en_GB/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -95,8 +95,8 @@ diff --color -ruN a/_locales/en_GB/messages.json b/_locales/en_GB/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/en_US/messages.json b/_locales/en_US/messages.json
---- a/_locales/en_US/messages.json	2026-04-14 01:37:24
-+++ b/_locales/en_US/messages.json	2026-04-14 01:37:24
+--- a/_locales/en_US/messages.json	2026-04-14 01:43:10
++++ b/_locales/en_US/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -107,8 +107,8 @@ diff --color -ruN a/_locales/en_US/messages.json b/_locales/en_US/messages.json
     "extensionOverview": {
        "description": "Extension Overview shown in the WebStore download page. (Note that: all \\n are symbol of new line, please do not translate them)",
 diff --color -ruN a/_locales/es/messages.json b/_locales/es/messages.json
---- a/_locales/es/messages.json	2026-04-14 01:37:24
-+++ b/_locales/es/messages.json	2026-04-14 01:37:24
+--- a/_locales/es/messages.json	2026-04-14 01:43:10
++++ b/_locales/es/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -119,8 +119,8 @@ diff --color -ruN a/_locales/es/messages.json b/_locales/es/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/fr/messages.json b/_locales/fr/messages.json
---- a/_locales/fr/messages.json	2026-04-14 01:37:24
-+++ b/_locales/fr/messages.json	2026-04-14 01:37:24
+--- a/_locales/fr/messages.json	2026-04-14 01:43:10
++++ b/_locales/fr/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -131,8 +131,8 @@ diff --color -ruN a/_locales/fr/messages.json b/_locales/fr/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/he/messages.json b/_locales/he/messages.json
---- a/_locales/he/messages.json	2026-04-14 01:37:24
-+++ b/_locales/he/messages.json	2026-04-14 01:37:24
+--- a/_locales/he/messages.json	2026-04-14 01:43:10
++++ b/_locales/he/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -143,8 +143,8 @@ diff --color -ruN a/_locales/he/messages.json b/_locales/he/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/hi/messages.json b/_locales/hi/messages.json
---- a/_locales/hi/messages.json	2026-04-14 01:37:24
-+++ b/_locales/hi/messages.json	2026-04-14 01:37:24
+--- a/_locales/hi/messages.json	2026-04-14 01:43:10
++++ b/_locales/hi/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -155,8 +155,8 @@ diff --color -ruN a/_locales/hi/messages.json b/_locales/hi/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/it/messages.json b/_locales/it/messages.json
---- a/_locales/it/messages.json	2026-04-14 01:37:24
-+++ b/_locales/it/messages.json	2026-04-14 01:37:24
+--- a/_locales/it/messages.json	2026-04-14 01:43:10
++++ b/_locales/it/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -167,8 +167,8 @@ diff --color -ruN a/_locales/it/messages.json b/_locales/it/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/ja/messages.json b/_locales/ja/messages.json
---- a/_locales/ja/messages.json	2026-04-14 01:37:24
-+++ b/_locales/ja/messages.json	2026-04-14 01:37:24
+--- a/_locales/ja/messages.json	2026-04-14 01:43:10
++++ b/_locales/ja/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -179,8 +179,8 @@ diff --color -ruN a/_locales/ja/messages.json b/_locales/ja/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/kn/messages.json b/_locales/kn/messages.json
---- a/_locales/kn/messages.json	2026-04-14 01:37:24
-+++ b/_locales/kn/messages.json	2026-04-14 01:37:24
+--- a/_locales/kn/messages.json	2026-04-14 01:43:10
++++ b/_locales/kn/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -191,8 +191,8 @@ diff --color -ruN a/_locales/kn/messages.json b/_locales/kn/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/ko/messages.json b/_locales/ko/messages.json
---- a/_locales/ko/messages.json	2026-04-14 01:37:24
-+++ b/_locales/ko/messages.json	2026-04-14 01:37:24
+--- a/_locales/ko/messages.json	2026-04-14 01:43:10
++++ b/_locales/ko/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -203,8 +203,8 @@ diff --color -ruN a/_locales/ko/messages.json b/_locales/ko/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/ml/messages.json b/_locales/ml/messages.json
---- a/_locales/ml/messages.json	2026-04-14 01:37:24
-+++ b/_locales/ml/messages.json	2026-04-14 01:37:24
+--- a/_locales/ml/messages.json	2026-04-14 01:43:10
++++ b/_locales/ml/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -215,8 +215,8 @@ diff --color -ruN a/_locales/ml/messages.json b/_locales/ml/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/mr/messages.json b/_locales/mr/messages.json
---- a/_locales/mr/messages.json	2026-04-14 01:37:24
-+++ b/_locales/mr/messages.json	2026-04-14 01:37:24
+--- a/_locales/mr/messages.json	2026-04-14 01:43:10
++++ b/_locales/mr/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -227,8 +227,8 @@ diff --color -ruN a/_locales/mr/messages.json b/_locales/mr/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/nl/messages.json b/_locales/nl/messages.json
---- a/_locales/nl/messages.json	2026-04-14 01:37:24
-+++ b/_locales/nl/messages.json	2026-04-14 01:37:24
+--- a/_locales/nl/messages.json	2026-04-14 01:43:10
++++ b/_locales/nl/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -239,8 +239,8 @@ diff --color -ruN a/_locales/nl/messages.json b/_locales/nl/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/pl/messages.json b/_locales/pl/messages.json
---- a/_locales/pl/messages.json	2026-04-14 01:37:24
-+++ b/_locales/pl/messages.json	2026-04-14 01:37:24
+--- a/_locales/pl/messages.json	2026-04-14 01:43:10
++++ b/_locales/pl/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -251,8 +251,8 @@ diff --color -ruN a/_locales/pl/messages.json b/_locales/pl/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/pt_BR/messages.json b/_locales/pt_BR/messages.json
---- a/_locales/pt_BR/messages.json	2026-04-14 01:37:24
-+++ b/_locales/pt_BR/messages.json	2026-04-14 01:37:24
+--- a/_locales/pt_BR/messages.json	2026-04-14 01:43:10
++++ b/_locales/pt_BR/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -263,8 +263,8 @@ diff --color -ruN a/_locales/pt_BR/messages.json b/_locales/pt_BR/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/pt_PT/messages.json b/_locales/pt_PT/messages.json
---- a/_locales/pt_PT/messages.json	2026-04-14 01:37:24
-+++ b/_locales/pt_PT/messages.json	2026-04-14 01:37:24
+--- a/_locales/pt_PT/messages.json	2026-04-14 01:43:10
++++ b/_locales/pt_PT/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -275,8 +275,8 @@ diff --color -ruN a/_locales/pt_PT/messages.json b/_locales/pt_PT/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/sv/messages.json b/_locales/sv/messages.json
---- a/_locales/sv/messages.json	2026-04-14 01:37:24
-+++ b/_locales/sv/messages.json	2026-04-14 01:37:24
+--- a/_locales/sv/messages.json	2026-04-14 01:43:10
++++ b/_locales/sv/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -287,8 +287,8 @@ diff --color -ruN a/_locales/sv/messages.json b/_locales/sv/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/ta/messages.json b/_locales/ta/messages.json
---- a/_locales/ta/messages.json	2026-04-14 01:37:24
-+++ b/_locales/ta/messages.json	2026-04-14 01:37:24
+--- a/_locales/ta/messages.json	2026-04-14 01:43:10
++++ b/_locales/ta/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -299,8 +299,8 @@ diff --color -ruN a/_locales/ta/messages.json b/_locales/ta/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/te/messages.json b/_locales/te/messages.json
---- a/_locales/te/messages.json	2026-04-14 01:37:24
-+++ b/_locales/te/messages.json	2026-04-14 01:37:24
+--- a/_locales/te/messages.json	2026-04-14 01:43:10
++++ b/_locales/te/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -311,8 +311,8 @@ diff --color -ruN a/_locales/te/messages.json b/_locales/te/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/tr/messages.json b/_locales/tr/messages.json
---- a/_locales/tr/messages.json	2026-04-14 01:37:24
-+++ b/_locales/tr/messages.json	2026-04-14 01:37:24
+--- a/_locales/tr/messages.json	2026-04-14 01:43:10
++++ b/_locales/tr/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -323,8 +323,8 @@ diff --color -ruN a/_locales/tr/messages.json b/_locales/tr/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/zh_CN/messages.json b/_locales/zh_CN/messages.json
---- a/_locales/zh_CN/messages.json	2026-04-14 01:37:24
-+++ b/_locales/zh_CN/messages.json	2026-04-14 01:37:24
+--- a/_locales/zh_CN/messages.json	2026-04-14 01:43:10
++++ b/_locales/zh_CN/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -335,8 +335,8 @@ diff --color -ruN a/_locales/zh_CN/messages.json b/_locales/zh_CN/messages.json
     "history": {
        "description": "Title for history view",
 diff --color -ruN a/_locales/zh_TW/messages.json b/_locales/zh_TW/messages.json
---- a/_locales/zh_TW/messages.json	2026-04-14 01:37:24
-+++ b/_locales/zh_TW/messages.json	2026-04-14 01:37:24
+--- a/_locales/zh_TW/messages.json	2026-04-14 01:43:10
++++ b/_locales/zh_TW/messages.json	2026-04-14 01:43:10
 @@ -181,7 +181,7 @@
     },
     "extensionName": {
@@ -354,8 +354,8 @@ Binary files a/icon/s2k-icon-32.png and b/icon/s2k-icon-32.png differ
 Binary files a/icon/s2k-icon-48.png and b/icon/s2k-icon-48.png differ
 Binary files a/icon/s2k-icon-64.png and b/icon/s2k-icon-64.png differ
 diff --color -ruN a/manifest.json b/manifest.json
---- a/manifest.json	2026-04-14 01:37:24
-+++ b/manifest.json	2026-04-14 01:37:24
+--- a/manifest.json	2026-04-14 01:43:10
++++ b/manifest.json	2026-04-14 01:43:10
 @@ -1,39 +1,66 @@
  {
 -   "action": {
@@ -398,7 +398,7 @@ diff --color -ruN a/manifest.json b/manifest.json
 +  "manifest_version": 3,
 +  "name": "__MSG_extensionName__",
 +  "description": "__MSG_extensionDescription__",
-+  "version": "2.1.1.7",
++  "version": "2.1.1.8",
 +  "default_locale": "en",
 +  "browser_specific_settings": {
 +    "gecko": {
@@ -461,8 +461,8 @@ diff --color -ruN a/manifest.json b/manifest.json
 +  ]
  }
 diff --color -ruN a/s2k-content.js b/s2k-content.js
---- a/s2k-content.js	2026-04-14 01:37:24
-+++ b/s2k-content.js	2026-04-14 01:37:24
+--- a/s2k-content.js	2026-04-14 01:43:10
++++ b/s2k-content.js	2026-04-14 01:43:10
 @@ -28033,7 +28033,7 @@
          }
  
@@ -491,8 +491,8 @@ diff --color -ruN a/s2k-content.js b/s2k-content.js
      // Add styles into head of current page
      styleElement.textContent = cssRotate + cssFont;
 diff --color -ruN a/s2k-listener.js b/s2k-listener.js
---- a/s2k-listener.js	2026-04-14 01:37:24
-+++ b/s2k-listener.js	2026-04-14 01:37:24
+--- a/s2k-listener.js	2026-04-14 01:43:09
++++ b/s2k-listener.js	2026-04-14 01:43:10
 @@ -12834,7 +12834,7 @@
          }
  
@@ -503,8 +503,8 @@ diff --color -ruN a/s2k-listener.js b/s2k-listener.js
  
          this.isInjected = true;
 diff --color -ruN a/s2k-preview.js b/s2k-preview.js
---- a/s2k-preview.js	2026-04-14 01:37:24
-+++ b/s2k-preview.js	2026-04-14 01:37:24
+--- a/s2k-preview.js	2026-04-14 01:43:09
++++ b/s2k-preview.js	2026-04-14 01:43:10
 @@ -26381,7 +26381,7 @@
          }
  
@@ -524,8 +524,8 @@ diff --color -ruN a/s2k-preview.js b/s2k-preview.js
          this.history.find("#s2k-history-frame").attr("src", url);
          
 diff --color -ruN a/s2k-worker.js b/s2k-worker.js
---- a/s2k-worker.js	2026-04-14 01:37:24
-+++ b/s2k-worker.js	2026-04-14 01:37:24
+--- a/s2k-worker.js	2026-04-14 01:43:10
++++ b/s2k-worker.js	2026-04-14 01:43:10
 @@ -12844,7 +12844,7 @@
                  // Update login status
                  S2K.checkAndUpdateAuthState();
