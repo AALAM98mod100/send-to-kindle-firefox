@@ -64,5 +64,13 @@ patch -p1 --directory="$SRC_OUT" -i "$PATCH" --forward --quiet || {
     exit 1
 }
 
+# Overlay our independent replacement icons (non-Amazon artwork) over the
+# upstream icon/ directory. These icons are our own work, shipped in the repo
+# directly rather than encoded as binary hunks in the patch.
+if [[ -d "$ROOT/icons" ]]; then
+  cp "$ROOT"/icons/*.png "$SRC_OUT/icon/"
+  echo "overlaid replacement icons from $ROOT/icons/"
+fi
+
 echo "built src/ from upstream $EXT_VERSION_DIR + patches/firefox-port.patch"
 echo "next: scripts/build.sh to package dist/send-to-kindle.xpi"
